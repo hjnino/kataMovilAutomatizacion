@@ -72,8 +72,15 @@ Este diagrama representa el flujo básico que las pruebas de login automatizadas
 
 ## Requisitos Previos Para Ejecutar el Proyecto
 
+Instalar nodejs, npm appium, descargar driver y ejecutar
+
 ```bash
+npm install -g appium
+
+appium driver install uiautomator2
+
 appium --allow-insecure chromedriver_autodownload
+
 ```
 > Referencia: [Cómo automatizar tus pruebas de aplicaciones IOS y Android con Appium](https://www.youtube.com/watch?v=xlVNKM8SncM)
 
