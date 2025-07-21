@@ -1,5 +1,6 @@
 # Serenity BDD Cucumber - Plantilla para Pruebas Móviles
 
+> Por Heidy Niño
 Este proyecto es una plantilla de inicio (starter) para crear pruebas de aceptación automatizadas para **aplicaciones móviles Android**, utilizando Serenity BDD, Cucumber, Appium y Java. Está diseñado para seguir el patrón de diseño Screenplay, que favorece la creación de pruebas más legibles, mantenibles y escalables.
 
 ## ¿Para qué es este proyecto?
